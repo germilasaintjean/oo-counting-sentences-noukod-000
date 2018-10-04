@@ -3,10 +3,10 @@ require 'pry'
 class String
 
   def sentence?
-    if "HI!".end_with?("!")
+   "HI!".end_with?("!")
     true
   else
-    false
+    "Hi , my name is Sophie".end_with?(".")
   end
   end
 
