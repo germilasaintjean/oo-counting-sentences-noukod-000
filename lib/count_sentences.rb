@@ -7,7 +7,7 @@ class String
     true
   else
     "Hi , my name is Sophie".end_with?(".")
-  end
+    false
   end
 
   def question?
